@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.2215EE
+test_cases:
+- expected_values:
+    TOYOTA_12V_V_V2: 12.90618
+  response: 7DA056215EE2904
+- expected_values:
+    TOYOTA_12V_V_V2: 14.1641
+  response: 7DA056215EE2D64
+- expected_values:
+    TOYOTA_12V_V_V2: 14.1641
+  response: 7DA056215EE2DE2
