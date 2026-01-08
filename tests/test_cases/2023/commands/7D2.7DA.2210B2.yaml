@@ -4,29 +4,5 @@ test_cases:
     TOYOTA_INVRT_COOLANT_T: 14
   response: 7DA046210B236
 - expected_values:
-    TOYOTA_INVRT_COOLANT_T: 16
-  response: 7DA046210B238
-- expected_values:
-    TOYOTA_INVRT_COOLANT_T: 17
-  response: 7DA046210B239
-- expected_values:
-    TOYOTA_INVRT_COOLANT_T: 21
-  response: 7DA046210B23D
-- expected_values:
-    TOYOTA_INVRT_COOLANT_T: 22
-  response: 7DA046210B23E
-- expected_values:
-    TOYOTA_INVRT_COOLANT_T: 26
-  response: 7DA046210B242
-- expected_values:
-    TOYOTA_INVRT_COOLANT_T: 27
-  response: 7DA046210B243
-- expected_values:
-    TOYOTA_INVRT_COOLANT_T: 28
-  response: 7DA046210B244
-- expected_values:
-    TOYOTA_INVRT_COOLANT_T: 30
-  response: 7DA046210B246
-- expected_values:
     TOYOTA_INVRT_COOLANT_T: 31
   response: 7DA046210B247
