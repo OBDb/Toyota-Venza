@@ -1,0 +1,38 @@
+command_id: 700.708.221043
+test_cases:
+- expected_values:
+    TOYOTA_EWP_RPM: 150
+    TOYOTA_EWP_TARGET_VSS: 0
+  response: '708056210430006'
+- expected_values:
+    TOYOTA_EWP_RPM: 1750
+    TOYOTA_EWP_TARGET_VSS: 1775
+  response: '708056210434746'
+- expected_values:
+    TOYOTA_EWP_RPM: 1775
+    TOYOTA_EWP_TARGET_VSS: 1775
+  response: '708056210434747'
+- expected_values:
+    TOYOTA_EWP_RPM: 1800
+    TOYOTA_EWP_TARGET_VSS: 1775
+  response: '708056210434748'
+- expected_values:
+    TOYOTA_EWP_RPM: 1750
+    TOYOTA_EWP_TARGET_VSS: 1900
+  response: 708056210434C46
+- expected_values:
+    TOYOTA_EWP_RPM: 2525
+    TOYOTA_EWP_TARGET_VSS: 2350
+  response: '708056210435E65'
+- expected_values:
+    TOYOTA_EWP_RPM: 2575
+    TOYOTA_EWP_TARGET_VSS: 2550
+  response: '708056210436667'
+- expected_values:
+    TOYOTA_EWP_RPM: 2600
+    TOYOTA_EWP_TARGET_VSS: 2625
+  response: '708056210436968'
+- expected_values:
+    TOYOTA_EWP_RPM: 2825
+    TOYOTA_EWP_TARGET_VSS: 2825
+  response: '708056210437171'
