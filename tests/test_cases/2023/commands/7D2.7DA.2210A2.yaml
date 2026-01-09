@@ -1,15 +1,25 @@
 command_id: 7D2.7DA.2210A2
 test_cases:
 - expected_values:
+    TOYOTA_RM_TQ_REQ: -2
+  response: |-
+    7DA100C6210A27FFE80
+    7DA2100040080000400
+- expected_values:
     TOYOTA_RM_TQ_REQ: -1
   response: |-
     7DA100C6210A27FFF80
-    7DA2105040080020400
+    7DA2100040080000400
 - expected_values:
     TOYOTA_RM_TQ_REQ: 0
   response: |-
     7DA100C6210A2800080
     7DA2100040080000000
+- expected_values:
+    TOYOTA_RM_TQ_REQ: 0
+  response: |-
+    7DA100C6210A2800080
+    7DA21200400801F0400
 - expected_values:
     TOYOTA_RM_TQ_REQ: 2
   response: |-
