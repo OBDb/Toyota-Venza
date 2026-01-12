@@ -4,5 +4,8 @@ test_cases:
     TOYOTA_ODO_V2_V2: 48068
   response: 7DA076201030200BBC4
 - expected_values:
-    TOYOTA_ODO_V2_V2: 48116
-  response: 7DA076201030200BBF4
+    TOYOTA_ODO_V2_V2: 48121
+  response: 7DA076201030200BBF9
+- expected_values:
+    TOYOTA_ODO_V2_V2: 48131
+  response: 7DA076201030200BC03
