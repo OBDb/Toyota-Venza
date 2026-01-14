@@ -4,6 +4,11 @@ test_cases:
     TOYOTA_RM_TQ_REQ: -2
   response: |-
     7DA100C6210A27FFE80
+    7DA2100040080000000
+- expected_values:
+    TOYOTA_RM_TQ_REQ: -2
+  response: |-
+    7DA100C6210A27FFE80
     7DA2100040080000400
 - expected_values:
     TOYOTA_RM_TQ_REQ: -1
