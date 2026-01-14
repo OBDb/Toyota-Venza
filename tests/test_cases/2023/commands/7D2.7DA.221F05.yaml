@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F05
 test_cases:
 - expected_values:
-    TOYOTA_COOL_T: 45
-  response: 7DA04621F0555
+    TOYOTA_COOL_T: 38
+  response: 7DA04621F054E
 - expected_values:
     TOYOTA_COOL_T: 89
   response: 7DA04621F0581
