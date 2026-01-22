@@ -21,6 +21,11 @@ test_cases:
     7DA100C6210A2800080
     7DA210004007FFF0000
 - expected_values:
+    TOYOTA_RM_TQ_REQ: 0
+  response: |-
+    7DA100C6210A2800080
+    7DA211F040080190400
+- expected_values:
     TOYOTA_RM_TQ_REQ: 2
   response: |-
     7DA100C6210A280027F
@@ -35,11 +40,6 @@ test_cases:
   response: |-
     7DA100C6210A2818381
     7DA21B1040081B40400
-- expected_values:
-    TOYOTA_RM_TQ_REQ: 1552
-  response: |-
-    7DA100C6210A2861080
-    7DA21BF040080C30400
 - expected_values:
     TOYOTA_RM_TQ_REQ: 6317
   response: |-
