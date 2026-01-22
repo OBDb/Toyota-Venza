@@ -1,9 +1,9 @@
 command_id: 700.708.221F5C
 test_cases:
 - expected_values:
-    TOYOTA_EOT_V2_V2: 19
-    TOYOTA_EOT_V3_V2: 19
-  response: 70804621F5C3B
+    TOYOTA_EOT_V2_V2: 18
+    TOYOTA_EOT_V3_V2: 18
+  response: 70804621F5C3A
 - expected_values:
     TOYOTA_EOT_V2_V2: 80
     TOYOTA_EOT_V3_V2: 80
