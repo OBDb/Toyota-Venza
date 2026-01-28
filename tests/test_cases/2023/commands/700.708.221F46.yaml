@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_AMBIENT_T: 6
   response: 70804621F462E
 - expected_values:
-    TOYOTA_AMBIENT_T: 42
-  response: 70804621F4652
+    TOYOTA_AMBIENT_T: 44
+  response: 70804621F4654
