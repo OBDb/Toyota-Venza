@@ -7,8 +7,8 @@ test_cases:
     TOYOTA_ODO_V6: 48642
   response: 74F076201030200BE02
 - expected_values:
-    TOYOTA_ODO_V6: 48892
-  response: 74F076201030200BEFC
-- expected_values:
     TOYOTA_ODO_V6: 48899
   response: 74F076201030200BF03
+- expected_values:
+    TOYOTA_ODO_V6: 49149
+  response: 74F076201030200BFFD
