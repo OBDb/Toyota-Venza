@@ -109,6 +109,10 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 0147:TP_B
   - 014C:TAC_PCT
+  "7E2":
+  - 7E2.7EA.0104
+  "7E3":
+  - 7E3.7EB.0131
 unsupported_commands_by_ecu:
   "6F1":
   - 6F1.221700|e=40,fc=1:TOYOTA_ODO_V3
@@ -233,11 +237,9 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.2185:TOYOTA_GEAR,TOYOTA_GEAR_V2,TOYOTA_TQC_LOCKUP
   - 7E0.7E8.21DA:TOYOTA_GEAR_V3
   "7E2":
-  - 7E2.7EA.0104
   - 7E2.7EA.0131
   "7E3":
   - 7E3.7EB.0104
-  - 7E3.7EB.0131
   "7E5":
   - 7E5.7ED.0104
   - 7E5.7ED.0131
