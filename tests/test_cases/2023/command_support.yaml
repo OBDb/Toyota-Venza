@@ -113,6 +113,8 @@ supported_commands_by_ecu:
   - 7E2.7EA.0104
   "7E3":
   - 7E3.7EB.0131
+  "7E6":
+  - 7E6.7EE.0104
 unsupported_commands_by_ecu:
   "6F1":
   - 6F1.221700|e=40,fc=1:TOYOTA_ODO_V3
@@ -244,5 +246,4 @@ unsupported_commands_by_ecu:
   - 7E5.7ED.0104
   - 7E5.7ED.0131
   "7E6":
-  - 7E6.7EE.0104
   - 7E6.7EE.0131
