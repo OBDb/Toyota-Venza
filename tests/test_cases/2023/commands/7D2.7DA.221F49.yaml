@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_ACC_PEDAL_POS_1: 15.68627
   response: 7DA04621F4928
 - expected_values:
-    TOYOTA_ACC_PEDAL_POS_1: 47.05882
-  response: 7DA04621F4978
+    TOYOTA_ACC_PEDAL_POS_1: 47.84314
+  response: 7DA04621F497A
