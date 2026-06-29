@@ -114,6 +114,8 @@ supported_commands_by_ecu:
   - 7E2.7EA.0104
   "7E3":
   - 7E3.7EB.0131
+  "7E5":
+  - 7E5.7ED.0104
   "7E6":
   - 7E6.7EE.0104
   - 7E6.7EE.0131
@@ -244,5 +246,4 @@ unsupported_commands_by_ecu:
   "7E3":
   - 7E3.7EB.0104
   "7E5":
-  - 7E5.7ED.0104
   - 7E5.7ED.0131
