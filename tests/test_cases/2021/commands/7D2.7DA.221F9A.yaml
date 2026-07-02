@@ -1,0 +1,50 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    TOYOTA_HVBAT_C: 27.6
+    TOYOTA_HVBAT_V: 250
+  response: |-
+    7DA1009621F9A0E003E
+    7DA2180011400000000
+- expected_values:
+    TOYOTA_HVBAT_C: 29.5
+    TOYOTA_HVBAT_V: 250
+  response: |-
+    7DA1009621F9A0E003E
+    7DA2180012700000000
+- expected_values:
+    TOYOTA_HVBAT_C: 7.8
+    TOYOTA_HVBAT_V: 253
+  response: |-
+    7DA1009621F9A0E003F
+    7DA2140004E00000000
+- expected_values:
+    TOYOTA_HVBAT_C: 3.7
+    TOYOTA_HVBAT_V: 255
+  response: |-
+    7DA1009621F9A0E003F
+    7DA21C0002500000000
+- expected_values:
+    TOYOTA_HVBAT_C: -8.4
+    TOYOTA_HVBAT_V: 255
+  response: |-
+    7DA1009621F9A0E003F
+    7DA21C0FFAC00000000
+- expected_values:
+    TOYOTA_HVBAT_C: -34.8
+    TOYOTA_HVBAT_V: 256
+  response: |-
+    7DA1009621F9A0E0040
+    7DA2100FEA400000000
+- expected_values:
+    TOYOTA_HVBAT_C: -31.7
+    TOYOTA_HVBAT_V: 257
+  response: |-
+    7DA1009621F9A0E0040
+    7DA2140FEC300000000
+- expected_values:
+    TOYOTA_HVBAT_C: -40.7
+    TOYOTA_HVBAT_V: 259
+  response: |-
+    7DA1009621F9A0E0040
+    7DA21C0FE6900000000
