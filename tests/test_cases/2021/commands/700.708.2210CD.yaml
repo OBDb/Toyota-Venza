@@ -1,0 +1,38 @@
+command_id: 700.708.2210CD
+test_cases:
+- expected_values:
+    TOYOTA_LFP: 422.9
+    TOYOTA_LFPS: -2853.9
+  response: 708056210CD9085
+- expected_values:
+    TOYOTA_LFP: 425.8
+    TOYOTA_LFPS: -2851
+  response: 708056210CD90A2
+- expected_values:
+    TOYOTA_LFP: 434.4
+    TOYOTA_LFPS: -2842.4
+  response: 708056210CD90F8
+- expected_values:
+    TOYOTA_LFP: 443.2
+    TOYOTA_LFPS: -2833.6
+  response: 708056210CD9150
+- expected_values:
+    TOYOTA_LFP: 444.2
+    TOYOTA_LFPS: -2832.6
+  response: 708056210CD915A
+- expected_values:
+    TOYOTA_LFP: 453.9
+    TOYOTA_LFPS: -2822.9
+  response: 708056210CD91BB
+- expected_values:
+    TOYOTA_LFP: 472.5
+    TOYOTA_LFPS: -2804.3
+  response: 708056210CD9275
+- expected_values:
+    TOYOTA_LFP: 480.3
+    TOYOTA_LFPS: -2796.5
+  response: 708056210CD92C3
+- expected_values:
+    TOYOTA_LFP: 486.1
+    TOYOTA_LFPS: -2790.7
+  response: 708056210CD92FD
