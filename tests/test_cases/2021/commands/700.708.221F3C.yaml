@@ -1,29 +1,14 @@
 command_id: 700.708.221F3C
 test_cases:
 - expected_values:
-    TOYOTA_CAT_T_11: 478.1
-  response: 70805621F3C143D
+    TOYOTA_CAT_T_11: 190.7
+  response: 70805621F3C0903
 - expected_values:
-    TOYOTA_CAT_T_11: 479
-  response: 70805621F3C1446
+    TOYOTA_CAT_T_11: 344.2
+  response: 70805621F3C0F02
 - expected_values:
-    TOYOTA_CAT_T_11: 498.8
-  response: 70805621F3C150C
+    TOYOTA_CAT_T_11: 574.3
+  response: 70805621F3C17FF
 - expected_values:
-    TOYOTA_CAT_T_11: 503.8
-  response: 70805621F3C153E
-- expected_values:
-    TOYOTA_CAT_T_11: 504.3
-  response: 70805621F3C1543
-- expected_values:
-    TOYOTA_CAT_T_11: 510.5
-  response: 70805621F3C1581
-- expected_values:
-    TOYOTA_CAT_T_11: 523
-  response: 70805621F3C15FE
-- expected_values:
-    TOYOTA_CAT_T_11: 527.8
-  response: 70805621F3C162E
-- expected_values:
-    TOYOTA_CAT_T_11: 542.6
-  response: 70805621F3C16C2
+    TOYOTA_CAT_T_11: 663.3
+  response: 70805621F3C1B79
