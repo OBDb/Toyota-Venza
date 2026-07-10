@@ -1,0 +1,92 @@
+command_id: 7D2.7DA.2210A2
+test_cases:
+- expected_values:
+    TOYOTA_RM_TQ: -0.375
+    TOYOTA_RM_TQ_REQ: -403
+  response: |-
+    7DA100C6210A27E6D7F
+    7DA21FD04007FFD0400
+- expected_values:
+    TOYOTA_RM_TQ: -19.875
+    TOYOTA_RM_TQ_REQ: -344
+  response: |-
+    7DA100C6210A27EA87F
+    7DA215F04007F610400
+- expected_values:
+    TOYOTA_RM_TQ: -8.125
+    TOYOTA_RM_TQ_REQ: -328
+  response: |-
+    7DA100C6210A27EB87F
+    7DA21C304007FBF0400
+- expected_values:
+    TOYOTA_RM_TQ: -8
+    TOYOTA_RM_TQ_REQ: -314
+  response: |-
+    7DA100C6210A27EC67F
+    7DA21BE04007FC00400
+- expected_values:
+    TOYOTA_RM_TQ: -0.875
+    TOYOTA_RM_TQ_REQ: -256
+  response: |-
+    7DA100C6210A27F007F
+    7DA21F504007FF90400
+- expected_values:
+    TOYOTA_RM_TQ: -41.75
+    TOYOTA_RM_TQ_REQ: -190
+  response: |-
+    7DA100C6210A27F427E
+    7DA21AD04007EB20400
+- expected_values:
+    TOYOTA_RM_TQ: -26.125
+    TOYOTA_RM_TQ_REQ: -177
+  response: |-
+    7DA100C6210A27F4F7F
+    7DA213004007F2F0400
+- expected_values:
+    TOYOTA_RM_TQ: -54.75
+    TOYOTA_RM_TQ_REQ: -40
+  response: |-
+    7DA100C6210A27FD87E
+    7DA215301007E4A0400
+- expected_values:
+    TOYOTA_RM_TQ: -0.25
+    TOYOTA_RM_TQ_REQ: -25
+  response: |-
+    7DA100C6210A27FE780
+    7DA210004007FFE0400
+- expected_values:
+    TOYOTA_RM_TQ: 0
+    TOYOTA_RM_TQ_REQ: -19
+  response: |-
+    7DA100C6210A27FED80
+    7DA2100040080000400
+- expected_values:
+    TOYOTA_RM_TQ: 0
+    TOYOTA_RM_TQ_REQ: -15
+  response: |-
+    7DA100C6210A27FF180
+    7DA2100040080000000
+- expected_values:
+    TOYOTA_RM_TQ: -5.375
+    TOYOTA_RM_TQ_REQ: -1
+  response: |-
+    7DA100C6210A27FFF7F
+    7DA21D404007FD50400
+- expected_values:
+    TOYOTA_RM_TQ: 94.375
+    TOYOTA_RM_TQ_REQ: 833
+  response: |-
+    7DA100C6210A2834183
+    7DA2106020082F30400
+- expected_values:
+    TOYOTA_RM_TQ: 39
+    TOYOTA_RM_TQ_REQ: 3856
+  response: |-
+    7DA100C6210A28F1081
+    7DA2143040281380400
+- expected_values:
+    TOYOTA_RM_TQ: 0.5
+    TOYOTA_RM_TQ_REQ: 9986
+  response: |-
+    7DA100C6210A2A70280
+    7DA2100040280040400
