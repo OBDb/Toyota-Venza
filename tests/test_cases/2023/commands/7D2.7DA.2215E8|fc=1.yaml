@@ -1,0 +1,10 @@
+command_id: 7D2.7DA.2215E8|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_12V_AH_IN: 5627.7
+    TOYOTA_12V_AH_OUT: 948.2
+    TOYOTA_READY_HOURS: 486
+  response: |-
+    7DA10146215E80000DB
+    7DA21D50000250A8384
+    7DA2201E60000415E4C
