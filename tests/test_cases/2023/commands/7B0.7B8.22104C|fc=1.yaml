@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.22104C|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 0
+  response: 7B80462104C00
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 3
+  response: 7B80462104C03
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 13
+  response: 7B80462104C0D
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 14
+  response: 7B80462104C0E
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 21
+  response: 7B80462104C15
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 23
+  response: 7B80462104C17
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 24
+  response: 7B80462104C18
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 29
+  response: 7B80462104C1D
