@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TOYOTA_HVAC_SET_RAW: 36
   response: 7CC0462103624
+- expected_values:
+    TOYOTA_HVAC_SET_RAW: 106
+  response: 7CC046210366A
