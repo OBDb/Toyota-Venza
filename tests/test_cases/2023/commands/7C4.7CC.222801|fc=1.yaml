@@ -2,13 +2,7 @@ command_id: 7C4.7CC.222801|fc=1
 test_cases:
 - expected_values:
     TOYOTA_BLOWER: 7
-  response: 7CC046228010F
+  response: 7CC046228010D
 - expected_values:
     TOYOTA_BLOWER: 7
-  response: 7CC0462280110
-- expected_values:
-    TOYOTA_BLOWER: 7
-  response: 7CC0462280112
-- expected_values:
-    TOYOTA_BLOWER: 7
-  response: 7CC0462280113
+  response: 7CC0462280118
