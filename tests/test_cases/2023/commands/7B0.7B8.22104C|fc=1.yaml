@@ -22,5 +22,11 @@ test_cases:
     TOYOTA_BRAKE_STROKE: 24
   response: 7B80462104C18
 - expected_values:
+    TOYOTA_BRAKE_STROKE: 28
+  response: 7B80462104C1C
+- expected_values:
     TOYOTA_BRAKE_STROKE: 29
   response: 7B80462104C1D
+- expected_values:
+    TOYOTA_BRAKE_STROKE: 33
+  response: 7B80462104C21
