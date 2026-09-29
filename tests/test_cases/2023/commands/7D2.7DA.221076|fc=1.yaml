@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TOYOTA_READY: 1
   response: 7DA056210760F07
+- expected_values:
+    TOYOTA_READY: 1
+  response: 7DA056210760F0B
