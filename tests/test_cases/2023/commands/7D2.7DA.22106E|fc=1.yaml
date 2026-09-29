@@ -1,6 +1,9 @@
 command_id: 7D2.7DA.22106E|fc=1
 test_cases:
 - expected_values:
+    TOYOTA_HVAC_P: 0.4
+  response: 7DA0462106E08
+- expected_values:
     TOYOTA_HVAC_P: 0.45
   response: 7DA0462106E09
 - expected_values:
