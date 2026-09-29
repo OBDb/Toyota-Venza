@@ -10,5 +10,5 @@ test_cases:
     TOYOTA_AAT_7C4_V2: 30.75
   response: 7CC056210020C03
 - expected_values:
-    TOYOTA_AAT_7C4_V2: 36
-  response: 7CC056210020E10
+    TOYOTA_AAT_7C4_V2: 43.65
+  response: 7CC05621002110D
