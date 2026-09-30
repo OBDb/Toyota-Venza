@@ -1,14 +1,14 @@
 command_id: 7C4.7CC.221001|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_CABIN_T_V2: 15.77
+    VENZA_CABIN_T_V2: 15.77
   response: 7CC056210010629
 - expected_values:
-    TOYOTA_CABIN_T_V2: 25.58
+    VENZA_CABIN_T_V2: 25.58
   response: 7CC0562100109FE
 - expected_values:
-    TOYOTA_CABIN_T_V2: 25.61
+    VENZA_CABIN_T_V2: 25.61
   response: 7CC056210010A01
 - expected_values:
-    TOYOTA_CABIN_T_V2: 33.71
+    VENZA_CABIN_T_V2: 33.71
   response: 7CC056210010D2B

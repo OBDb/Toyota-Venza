@@ -1,8 +1,8 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    TOYOTA_ENG_ODO: 33617570
+    VENZA_ENG_ODO: 63138
   response: 708076201030200F6A2
 - expected_values:
-    TOYOTA_ENG_ODO: 33617631
+    VENZA_ENG_ODO: 63199
   response: 708076201030200F6DF

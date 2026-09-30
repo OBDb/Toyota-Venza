@@ -1,11 +1,11 @@
 command_id: 7D2.7DA.221FA6|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_ODO_1FA6: 101613.6
+    VENZA_ODO_1FA6: 101613.6
   response: 7DA07621FA6000F8148
 - expected_values:
-    TOYOTA_ODO_1FA6: 101657.4
+    VENZA_ODO_1FA6: 101657.4
   response: 7DA07621FA6000F82FE
 - expected_values:
-    TOYOTA_ODO_1FA6: 101708.9
+    VENZA_ODO_1FA6: 101708.9
   response: 7DA07621FA6000F8501
