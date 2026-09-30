@@ -1,0 +1,18 @@
+command_id: 7D2.7DA.2210A7
+test_cases:
+- expected_values:
+    VENZA_BOOSTING_CONV_T_HI: 36
+    VENZA_BOOSTING_CONV_T_LO: 37
+  response: 7DA076210A74C4D4D6B
+- expected_values:
+    VENZA_BOOSTING_CONV_T_HI: 38
+    VENZA_BOOSTING_CONV_T_LO: 40
+  response: 7DA076210A74E504D68
+- expected_values:
+    VENZA_BOOSTING_CONV_T_HI: 38
+    VENZA_BOOSTING_CONV_T_LO: 49
+  response: 7DA076210A74E594D68
+- expected_values:
+    VENZA_BOOSTING_CONV_T_HI: 63
+    VENZA_BOOSTING_CONV_T_LO: 41
+  response: 7DA076210A767514D68
