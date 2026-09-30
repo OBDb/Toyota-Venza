@@ -1,8 +1,8 @@
 command_id: 747.74F.221F5B|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_SOC_747: 27.45098
+    VENZA_SOC_747: 27.45098
   response: 74F04621F5B46
 - expected_values:
-    TOYOTA_SOC_747: 78.82353
+    VENZA_SOC_747: 78.82353
   response: 74F04621F5BC9

@@ -1,17 +1,14 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    TOYOTA_FLV: 3.5
-    TOYOTA_FUEL_LEVEL: 3.5
+    VENZA_FUEL_LEVEL: 3.5
   response: 7C805621022015E
 - expected_values:
-    TOYOTA_FLV: 12.8
-    TOYOTA_FUEL_LEVEL: 12.8
+    VENZA_FUEL_LEVEL: 12.8
   response: 7C8056210220500
 - expected_values:
-    TOYOTA_FLV: 20.47
-    TOYOTA_FUEL_LEVEL: 20.47
+    VENZA_FUEL_LEVEL: 20.47
   response: 7C80562102207FF
 - expected_values:
-    TOYOTA_FUEL_LEVEL: 655.35
+    VENZA_FUEL_LEVEL: 655.35
   response: 7C805621022FFFF
