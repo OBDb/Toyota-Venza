@@ -1,14 +1,14 @@
 command_id: 700.708.221F3C
 test_cases:
 - expected_values:
-    TOYOTA_CAT_T_11: 34.3
+    VENZA_CAT_T_11: 34.3
   response: 70805621F3C02E7
 - expected_values:
-    TOYOTA_CAT_T_11: 88
+    VENZA_CAT_T_11: 88
   response: 70805621F3C0500
 - expected_values:
-    TOYOTA_CAT_T_11: 113.5
+    VENZA_CAT_T_11: 113.5
   response: 70805621F3C05FF
 - expected_values:
-    TOYOTA_CAT_T_11: 807.4
+    VENZA_CAT_T_11: 807.4
   response: 70805621F3C211A

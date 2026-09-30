@@ -1,8 +1,8 @@
-command_id: 7D2.7DA.22106E|fc=1
+command_id: 7D2.7DA.22106E
 test_cases:
 - expected_values:
-    TOYOTA_HVAC_P: 0
+    VENZA_AC_POWER_CONS: 0
   response: 7DA0462106E00
 - expected_values:
-    TOYOTA_HVAC_P: 1.25
+    VENZA_AC_POWER_CONS: 1.25
   response: 7DA0462106E19

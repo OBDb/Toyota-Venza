@@ -1,110 +1,110 @@
 command_id: 7D2.7DA.2210A1
 test_cases:
 - expected_values:
-    TOYOTA_RPM: -532
-    TOYOTA_TQ: -8.5
+    VENZA_RPM_7D2: -532
+    VENZA_TQ: -8.5
   response: |-
     7DA100C6210A17DEC7F
     7DA21BC03007FBC0400
 - expected_values:
-    TOYOTA_RPM: -513
-    TOYOTA_TQ: -9.375
+    VENZA_RPM_7D2: -513
+    VENZA_TQ: -9.375
   response: |-
     7DA100C6210A17DFF7F
     7DA21B703007FB50400
 - expected_values:
-    TOYOTA_RPM: -386
-    TOYOTA_TQ: -16.625
+    VENZA_RPM_7D2: -386
+    VENZA_TQ: -16.625
   response: |-
     7DA100C6210A17E7E7F
     7DA218003007F7B0400
 - expected_values:
-    TOYOTA_RPM: -347
-    TOYOTA_TQ: -18.5
+    VENZA_RPM_7D2: -347
+    VENZA_TQ: -18.5
   response: |-
     7DA100C6210A17EA57F
     7DA216F03007F6C0400
 - expected_values:
-    TOYOTA_RPM: -329
-    TOYOTA_TQ: -20.125
+    VENZA_RPM_7D2: -329
+    VENZA_TQ: -20.125
   response: |-
     7DA100C6210A17EB77F
     7DA216203007F5F0400
 - expected_values:
-    TOYOTA_RPM: -271
-    TOYOTA_TQ: -24
+    VENZA_RPM_7D2: -271
+    VENZA_TQ: -24
   response: |-
     7DA100C6210A17EF17F
     7DA215103007F400400
 - expected_values:
-    TOYOTA_RPM: -234
-    TOYOTA_TQ: -32.875
+    VENZA_RPM_7D2: -234
+    VENZA_TQ: -32.875
   response: |-
     7DA100C6210A17F167E
     7DA21FD03007EF90400
 - expected_values:
-    TOYOTA_RPM: -183
-    TOYOTA_TQ: -34
+    VENZA_RPM_7D2: -183
+    VENZA_TQ: -34
   response: |-
     7DA100C6210A17F497F
     7DA210003007EF00400
 - expected_values:
-    TOYOTA_RPM: -156
-    TOYOTA_TQ: -51.75
+    VENZA_RPM_7D2: -156
+    VENZA_TQ: -51.75
   response: |-
     7DA100C6210A17F647E
     7DA216701007E620400
 - expected_values:
-    TOYOTA_RPM: -138
-    TOYOTA_TQ: -1.625
+    VENZA_RPM_7D2: -138
+    VENZA_TQ: -1.625
   response: |-
     7DA100C6210A17F767F
     7DA21F303007FF30400
 - expected_values:
-    TOYOTA_RPM: -20
-    TOYOTA_TQ: -0.125
+    VENZA_RPM_7D2: -20
+    VENZA_TQ: -0.125
   response: |-
     7DA100C6210A17FEC80
     7DA210003007FFF0000
 - expected_values:
-    TOYOTA_RPM: -12
-    TOYOTA_TQ: 1.625
+    VENZA_RPM_7D2: -12
+    VENZA_TQ: 1.625
   response: |-
     7DA100C6210A17FF480
     7DA21120300800D0400
 - expected_values:
-    TOYOTA_RPM: 0
-    TOYOTA_TQ: -63
+    VENZA_RPM_7D2: 0
+    VENZA_TQ: -63
   response: |-
     7DA100C6210A180007E
     7DA211401007E080400
 - expected_values:
-    TOYOTA_RPM: 402
-    TOYOTA_TQ: 127.25
+    VENZA_RPM_7D2: 402
+    VENZA_TQ: 127.25
   response: |-
     7DA100C6210A1819284
     7DA211B030083FA0400
 - expected_values:
-    TOYOTA_RPM: 833
-    TOYOTA_TQ: -65.75
+    VENZA_RPM_7D2: 833
+    VENZA_TQ: -65.75
   response: |-
     7DA100C6210A183417D
     7DA21DF03007DF20400
 - expected_values:
-    TOYOTA_RPM: 3168
-    TOYOTA_TQ: 43.125
+    VENZA_RPM_7D2: 3168
+    VENZA_TQ: 43.125
   response: |-
     7DA100C6210A18C6081
     7DA216E030281590400
 - expected_values:
-    TOYOTA_RPM: 8802
-    TOYOTA_TQ: 15.5
+    VENZA_RPM_7D2: 8802
+    VENZA_TQ: 15.5
   response: |-
     7DA100C6210A1A26280
     7DA21800402807C0400
 - expected_values:
-    TOYOTA_RPM: 11264
-    TOYOTA_TQ: -8
+    VENZA_RPM_7D2: 11264
+    VENZA_TQ: -8
   response: |-
     7DA100C6210A1AC007F
     7DA21BB04027FC00400
