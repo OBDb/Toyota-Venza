@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_HVAC_P: 0
   response: 7DA0462106E00
 - expected_values:
-    TOYOTA_HVAC_P: 1.1
-  response: 7DA0462106E16
+    TOYOTA_HVAC_P: 1.25
+  response: 7DA0462106E19
