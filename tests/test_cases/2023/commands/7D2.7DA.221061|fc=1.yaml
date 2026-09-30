@@ -4,5 +4,8 @@ test_cases:
     VENZA_SHIFT: P
   response: 7DA056210610001
 - expected_values:
+    VENZA_SHIFT: R
+  response: 7DA056210610202
+- expected_values:
     VENZA_SHIFT: D
   response: 7DA056210610608
