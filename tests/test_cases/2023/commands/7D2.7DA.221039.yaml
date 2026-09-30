@@ -1,8 +1,11 @@
 command_id: 7D2.7DA.221039
 test_cases:
 - expected_values:
-    VENZA_FRONT_REAR_MOTOR_TQ: -29.047
-  response: 7DA0762103923330E89
+    VENZA_FRONT_REAR_MOTOR_TQ: -29.532
+  response: 7DA0762103920A40CA4
+- expected_values:
+    VENZA_FRONT_REAR_MOTOR_TQ: -29.249
+  response: 7DA0762103923330DBF
 - expected_values:
     VENZA_FRONT_REAR_MOTOR_TQ: -28.929
   response: 7DA0762103923330EFF
