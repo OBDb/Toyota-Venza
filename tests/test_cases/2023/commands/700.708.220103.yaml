@@ -4,5 +4,5 @@ test_cases:
     VENZA_ENG_ODO: 63138
   response: 708076201030200F6A2
 - expected_values:
-    VENZA_ENG_ODO: 63208
-  response: 708076201030200F6E8
+    VENZA_ENG_ODO: 63209
+  response: 708076201030200F6E9
