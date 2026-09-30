@@ -35,3 +35,8 @@ test_cases:
   response: |-
     7DA100A6201021D5400
     7DA2114EF9D01000000
+- expected_values:
+    VENZA_KEY_CYCLE: 7509
+  response: |-
+    7DA100A6201021D5500
+    7DA2107D9CA01000000
