@@ -1,0 +1,37 @@
+command_id: 7D2.7DA.220102
+test_cases:
+- expected_values:
+    VENZA_KEY_CYCLE: 7508
+  response: |-
+    7DA100A6201021D5400
+    7DA2102FEB801000000
+- expected_values:
+    VENZA_KEY_CYCLE: 7508
+  response: |-
+    7DA100A6201021D5400
+    7DA2104DD2F01000000
+- expected_values:
+    VENZA_KEY_CYCLE: 7508
+  response: |-
+    7DA100A6201021D5400
+    7DA210832C001000000
+- expected_values:
+    VENZA_KEY_CYCLE: 7508
+  response: |-
+    7DA100A6201021D5400
+    7DA210FCC8B01000000
+- expected_values:
+    VENZA_KEY_CYCLE: 7508
+  response: |-
+    7DA100A6201021D5400
+    7DA211042C001000000
+- expected_values:
+    VENZA_KEY_CYCLE: 7508
+  response: |-
+    7DA100A6201021D5400
+    7DA2114003101000000
+- expected_values:
+    VENZA_KEY_CYCLE: 7508
+  response: |-
+    7DA100A6201021D5400
+    7DA2114EF9D01000000
