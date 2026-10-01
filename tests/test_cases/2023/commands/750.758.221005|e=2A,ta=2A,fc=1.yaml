@@ -1,22 +1,20 @@
 command_id: 750.758.221005|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
+    VENZA_TP_1: null
+    VENZA_TP_2: null
+    VENZA_TP_3: null
+    VENZA_TP_4: null
+    VENZA_TP_5: null
+  response: |-
+    7582A100D6210050000
+    7582A21000000000000
+    7582A22000000000000
+- expected_values:
     VENZA_TP_4: 32.84848
   response: |-
     7582A100D6210050000
     7582A2100000000009F
-    7582A22000000000000
-- expected_values:
-    VENZA_TP_4: 33.09091
-  response: |-
-    7582A100D6210050000
-    7582A210000000000A0
-    7582A22000000000000
-- expected_values:
-    VENZA_TP_3: 33.57576
-  response: |-
-    7582A100D6210050000
-    7582A21000000A20000
     7582A22000000000000
 - expected_values:
     VENZA_TP_3: 36.72727
