@@ -10,5 +10,5 @@ test_cases:
     VENZA_FUEL_LEVEL: 20.47
   response: 7C80562102207FF
 - expected_values:
-    VENZA_FUEL_LEVEL: 51.2
-  response: 7C8056210221400
+    VENZA_FUEL_LEVEL: null
+  response: 7C805621022FFFF
