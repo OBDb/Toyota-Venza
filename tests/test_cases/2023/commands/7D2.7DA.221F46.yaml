@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F46
 test_cases:
 - expected_values:
-    VENZA_AAT_7D2: 4
-  response: 7DA04621F462C
+    VENZA_AAT_7D2: null
+  response: 7DA04621F4600
 - expected_values:
     VENZA_AAT_7D2: 51
   response: 7DA04621F465B
