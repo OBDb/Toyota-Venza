@@ -1,8 +1,10 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    VENZA_ENG_ODO: 63138
+    VENZA_ENG_ODO_RAW: 63138
+    VENZA_ENG_ODO_UNIT: MI
   response: 708076201030200F6A2
 - expected_values:
-    VENZA_ENG_ODO: 63213
+    VENZA_ENG_ODO_RAW: 63213
+    VENZA_ENG_ODO_UNIT: MI
   response: 708076201030200F6ED

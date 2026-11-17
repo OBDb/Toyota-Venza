@@ -1,14 +1,18 @@
 command_id: 747.74F.220103|fc=1
 test_cases:
 - expected_values:
-    VENZA_ODO_V6: 48068
+    VENZA_ODO_V6_RAW: 48068
+    VENZA_ODO_V6_UNIT: MI
   response: 74F076201030200BBC4
 - expected_values:
-    VENZA_ODO_V6: 49919
+    VENZA_ODO_V6_RAW: 49919
+    VENZA_ODO_V6_UNIT: MI
   response: 74F076201030200C2FF
 - expected_values:
-    VENZA_ODO_V6: 49920
+    VENZA_ODO_V6_RAW: 49920
+    VENZA_ODO_V6_UNIT: MI
   response: 74F076201030200C300
 - expected_values:
-    VENZA_ODO_V6: 62998
+    VENZA_ODO_V6_RAW: 62998
+    VENZA_ODO_V6_UNIT: MI
   response: 74F076201030200F616
